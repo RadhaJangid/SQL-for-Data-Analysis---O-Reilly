@@ -36,4 +36,8 @@ maan lo ki two students ke marks same hai.
     </tr>
   </table>
 </div>
+ROW_NUMBER basically ranking nhi karta hai ye simply row number asign karta hai pure data me.
 
+# FIRST_VALUE(), LAST_VALUE(), NTH_VALUE() :-
+FIRST_VALUE() - Sorted data me se sabse FIRST value return karta hai.
+LAST_VALUE() - Sorted data me se sabse LAST value return karta hai.
