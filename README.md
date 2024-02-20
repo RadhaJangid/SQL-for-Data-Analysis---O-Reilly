@@ -10,6 +10,7 @@ window functions are basiaclly analytical functions, jo agregate operation perfo
 RANK  is window function, partition me ranking deta hai.Jaise ki sare branches me students ko rank karna hai on the basis of their marks.
 
 Defference between RANK & DENCE_RANK :-
+
 maan lo ki two students ke marks same hai.
 <div class="w3-container">
   <table class="w3-table-all w3-card-4">
