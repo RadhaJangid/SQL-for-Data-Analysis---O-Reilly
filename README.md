@@ -2,8 +2,9 @@
 
 Window functions are very-2 similar to groupby.
 
-# OVER Clause - it is working as groupby only but the difference is in outcome.
+# OVER Clause - 
 
+it is working as groupby only but the difference is in outcome.
 Over Clause basically ek window create karta hai data me. window can be called as group.
 window function aapko row by row result return karta hai whereas groupby grouped result return karta jitne groups honge utane hi rows aapke paas aayenge whereas in window function what will happen is ki jitne aapke data me rows hai utane hi rows vapas aayenge but sath hi sath aapko result bhi mil jayega aapke agregate operation ka.
 
@@ -44,4 +45,5 @@ ROW_NUMBER basically ranking nhi karta hai ye simply row number asign karta hai 
 
 # FIRST_VALUE(), LAST_VALUE(), NTH_VALUE() :-
 FIRST_VALUE() - Sorted data me se sabse FIRST value return karta hai.
+
 LAST_VALUE() - Sorted data me se sabse LAST value return karta hai.
